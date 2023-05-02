@@ -1,0 +1,116 @@
+[
+    {
+        "id": 1,
+        "chefName": "Alice Smith",
+        "yearsOfExperience": 10,
+        "numRecipes": 50,
+        "likes": 1000,
+        "picture": "./images/1.jpg",
+        "description": "Alice Smith is a classically trained chef who has worked in some of the world's top restaurants. She is known for her expertise in French cuisine and her attention to detail in every dish she creates.",
+        "recipeName": "Coq au Vin",
+        "ingredients": [
+            "chicken",
+            "red wine",
+            "bacon",
+            "onion",
+            "mushrooms"
+        ],
+        "cookingMethod": "1. Season chicken with salt and pepper. Cook bacon in a large Dutch oven over medium heat until crisp. Remove bacon from pan, reserving drippings. Add chicken to drippings in pan; cook 10 minutes or until browned, turning occasionally. Remove chicken from pan; keep warm. Add onion to pan; cook 8 minutes or until browned, stirring occasionally. Add mushrooms; cook 4 minutes, stirring occasionally. Stir in flour; cook 1 minute, stirring constantly. Add wine, thyme, and garlic, scraping pan to loosen browned bits. Return bacon and chicken to pan; bring to a simmer. Cover and simmer 45 minutes or until chicken is done. Serve over noodles or mashed potatoes.",
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "chefName": "Bob Lee",
+        "yearsOfExperience": 12,
+        "numRecipes": 70,
+        "likes": 1200,
+        "picture": "./images/2.jpg",
+        "description": "Bob Lee is a self-taught chef who has a passion for fusion cuisine. He has traveled the world to learn about different ingredients and techniques, and his dishes reflect his love of experimenting with bold flavors.",
+        "recipeName": "Korean BBQ Beef Tacos",
+        "ingredients": [
+            "flank steak",
+            "soy sauce",
+            "brown sugar",
+            "garlic",
+            "ginger"
+        ],
+        "cookingMethod": "1. In a bowl, whisk together soy sauce, brown sugar, garlic, and ginger. Reserve half of the marinade for basting. Place flank steak in a resealable plastic bag and pour in the remaining marinade. Seal bag and let marinate in the refrigerator for at least 30 minutes. 2. Heat a grill or grill pan over medium-high heat. Remove steak from marinade and discard marinade. Grill steak, basting with reserved marinade, until cooked to desired doneness. Let rest for 5 minutes before slicing thinly. 3. Warm tortillas on the grill or in a dry skillet. Top each tortilla with sliced steak, kimchi, and scallions.",
+        "rating": 4.8
+    },
+    {
+        "id": 3,
+        "chefName": "Maria Rodriguez",
+        "yearsOfExperience": 8,
+        "numRecipes": 40,
+        "likes": 900,
+        "picture": "./images/3.png",
+        "description": "Maria Rodriguez is a chef who specializes in Latin American cuisine. She grew up in a family of chefs and learned to cook from her mother and grandmother. She is known for her use of fresh ingredients and bold flavors in her dishes.",
+        "recipeName": "Chicken Piccata",
+        "ingredients": [
+            "chicken breasts",
+            "flour",
+            "butter",
+            "lemon",
+            "capers"
+        ],
+        "cookingMethod": "Pound chicken breasts until they are thin. Coat them with flour. Heat butter in a pan and cook chicken for about 5-6 minutes on each side. Remove chicken from pan and add lemon juice and capers to the pan. Cook for 1-2 minutes. Pour sauce over chicken.",
+        "rating": 4.7
+    },
+    {
+        "id": 4,
+        "chefName": "Eve Johnson",
+        "yearsOfExperience": 8,
+        "numRecipes": 40,
+        "likes": 800,
+        "picture": "./images/4.jpg",
+        "description": "Maria Rodriguez is a chef who specializes in Latin American cuisine. She grew up in a family of chefs and learned to cook from her mother and grandmother. She is known for her use of fresh ingredients and bold flavors in her dishes.",
+        "recipeName": "Beef Wellington",
+        "ingredients": [
+            "beef fillet",
+            "mushrooms",
+            "shallots",
+            "puff pastry",
+            "egg"
+        ],
+        "cookingMethod": "Preheat oven to 200°C. Season the beef with salt and pepper. Sear the beef in a hot pan with oil for 2-3 minutes on each side. Set aside. Cook mushrooms and shallots until softened. Place the beef on top of the mushroom mixture, then wrap with puff pastry. Brush with beaten egg. Bake for 25-30 minutes until golden brown.",
+        "rating": 4.5
+    },
+    {
+        "id": 5,
+        "chefName": "Dave Garcia",
+        "yearsOfExperience": 20,
+        "numRecipes": 120,
+        "likes": 2000,
+        "picture": "./images/5.jpg",
+        "description": "Maria Rodriguez is a chef who specializes in Latin American cuisine. She grew up in a family of chefs and learned to cook from her mother and grandmother. She is known for her use of fresh ingredients and bold flavors in her dishes.",
+        "recipeName": "Chim",
+        "ingredients": [
+            "garlic",
+            "ginger",
+            "corn tortillas",
+            "kimchi",
+            "scallions"
+        ],
+        "cookingMethod": "1. In a bowl, whisk together soy sauce, brown sugar, garlic, and ginger. Reserve half of the marinade for basting. Place flank steak in a resealable plastic bag and pour in the remaining marinade. Seal bag and let marinate in the refrigerator for at least 30 minutes. 2. Heat a grill or grill pan over medium-high heat. Remove steak from marinade and discard marinade. Grill steak, basting with reserved marinade, until cooked to desired doneness. Let rest for 5 minutes before slicing thinly. 3. Warm tortillas on the grill or in a dry skillet. Top each tortilla with sliced steak, kimchi, and scallions.",
+        "rating": 4.8
+    },
+    {
+        "id": 6,
+        "chefName": "Frank Davis",
+        "yearsOfExperience": 5,
+        "numRecipes": 30,
+        "likes": 500,
+        "picture": "./images/6.jpg",
+        "description": "Maria Rodriguez is a chef who specializes in Latin American cuisine. She grew up in a family of chefs and learned to cook from her mother and grandmother. She is known for her use of fresh ingredients and bold flavors in her dishes.",
+        "recipeName": "Grilled Salmon",
+        "ingredients": [
+            "salmon fillet",
+            "olive oil",
+            "lemon",
+            "garlic",
+            "salt"
+        ],
+        "cookingMethod": "Preheat grill to medium-high heat. Season salmon with salt and brush with olive oil. Grill the salmon, skin side down, for 5-6 minutes. Flip and cook for another 2-3 minutes. Remove from grill and squeeze fresh lemon juice over the top.",
+        "rating": 4.2
+    }
+]
