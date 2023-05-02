@@ -24,7 +24,7 @@
         "yearsOfExperience": 12,
         "numRecipes": 70,
         "likes": 1200,
-        "picture": "./images/2.jpg",
+        "picture": "./images/1.jpg",
         "description": "Bob Lee is a self-taught chef who has a passion for fusion cuisine. He has traveled the world to learn about different ingredients and techniques, and his dishes reflect his love of experimenting with bold flavors.",
         "recipeName": "Korean BBQ Beef Tacos",
         "ingredients": [
@@ -43,7 +43,7 @@
         "yearsOfExperience": 8,
         "numRecipes": 40,
         "likes": 900,
-        "picture": "./images/3.png",
+        "picture": "./images/1.jpg",
         "description": "Maria Rodriguez is a chef who specializes in Latin American cuisine. She grew up in a family of chefs and learned to cook from her mother and grandmother. She is known for her use of fresh ingredients and bold flavors in her dishes.",
         "recipeName": "Chicken Piccata",
         "ingredients": [
@@ -62,7 +62,7 @@
         "yearsOfExperience": 8,
         "numRecipes": 40,
         "likes": 800,
-        "picture": "./images/4.jpg",
+        "picture": "./images/1.jpg",
         "description": "Maria Rodriguez is a chef who specializes in Latin American cuisine. She grew up in a family of chefs and learned to cook from her mother and grandmother. She is known for her use of fresh ingredients and bold flavors in her dishes.",
         "recipeName": "Beef Wellington",
         "ingredients": [
@@ -81,7 +81,7 @@
         "yearsOfExperience": 20,
         "numRecipes": 120,
         "likes": 2000,
-        "picture": "./images/5.jpg",
+        "picture": "./images/1.jpg",
         "description": "Maria Rodriguez is a chef who specializes in Latin American cuisine. She grew up in a family of chefs and learned to cook from her mother and grandmother. She is known for her use of fresh ingredients and bold flavors in her dishes.",
         "recipeName": "Chim",
         "ingredients": [
@@ -100,7 +100,7 @@
         "yearsOfExperience": 5,
         "numRecipes": 30,
         "likes": 500,
-        "picture": "./images/6.jpg",
+        "picture": "./images/1.jpg",
         "description": "Maria Rodriguez is a chef who specializes in Latin American cuisine. She grew up in a family of chefs and learned to cook from her mother and grandmother. She is known for her use of fresh ingredients and bold flavors in her dishes.",
         "recipeName": "Grilled Salmon",
         "ingredients": [
