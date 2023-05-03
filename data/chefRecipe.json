@@ -25,7 +25,6 @@
                 "ingredients": [
                     "beef tenderloin",
                     "mushrooms",
-                    "sour cream",
                     "onion",
                     "garlic",
                     "egg noodles"
@@ -38,13 +37,12 @@
                 "ingredients": [
                     "chicken thighs",
                     "coconut milk",
-                    "curry powder",
                     "onion",
                     "garlic",
                     "basmati rice"
                 ],
                 "cookingMethod": "1. Season chicken with salt and pepper. Heat oil in a large skillet over medium-high heat. Add chicken; cook 5 minutes or until browned, stirring occasionally. Remove chicken from pan; keep warm. Add onion to pan; cook 4 minutes, stirring occasionally. Add garlic and curry powder; cook 1 minute, stirring constantly. Return chicken to pan. Pour in coconut milk and bring to a simmer. Cover and cook 20 minutes or until chicken is cooked through. Serve over cooked basmati rice.",
-                "rating": 4.5
+                "rating": 3.5
             }
         ]
     },
@@ -64,8 +62,7 @@
                     "bell peppers",
                     "carrots",
                     "tomatoes",
-                    "kidney beans",
-                    "corn"
+                    "kidney beans"
                 ],
                 "cookingMethod": "1. Heat oil in a large pot over medium-high heat. Add onion, bell peppers, and carrots; cook 5 minutes or until softened, stirring occasionally. Add garlic and cook 1 minute. Add tomatoes, beans, corn, and chili powder; bring to a simmer. Reduce heat and cook 20 minutes, stirring occasionally. Serve hot.",
                 "rating": 4.6
@@ -77,11 +74,10 @@
                     "bell peppers",
                     "carrots",
                     "tomatoes",
-                    "kidney beans",
-                    "corn"
+                    "kidney beans"
                 ],
                 "cookingMethod": "1. Heat oil in a large pot over medium-high heat. Add onion, bell peppers, and carrots; cook 5 minutes or until softened, stirring occasionally. Add garlic and cook 1 minute. Add tomatoes, beans, corn, and chili powder; bring to a simmer. Reduce heat and cook 20 minutes, stirring occasionally. Serve hot.",
-                "rating": 4.6
+                "rating": 3.6
             },
             {
                 "recipeName": "Grilled Salmon",
@@ -135,7 +131,6 @@
                 "ingredients": [
                     "chicken thighs",
                     "coconut milk",
-                    "curry powder",
                     "onion",
                     "garlic",
                     "basmati rice"
@@ -155,17 +150,16 @@
         "description": "Maria Rodriguez is a chef who specializes in Latin American cuisine. She grew up in a family of chefs and learned to cook from her mother and grandmother. She is known for her use of fresh ingredients and bold flavors in her dishes.",
         "recipes": [
             {
-                "recipeName": "Vegetarian Chili",
+                "recipeName": "Beef Stroganoff",
                 "ingredients": [
+                    "beef tenderloin",
+                    "mushrooms",
                     "onion",
-                    "bell peppers",
-                    "carrots",
-                    "tomatoes",
-                    "kidney beans",
-                    "corn"
+                    "garlic",
+                    "egg noodles"
                 ],
-                "cookingMethod": "1. Heat oil in a large pot over medium-high heat. Add onion, bell peppers, and carrots; cook 5 minutes or until softened, stirring occasionally. Add garlic and cook 1 minute. Add tomatoes, beans, corn, and chili powder; bring to a simmer. Reduce heat and cook 20 minutes, stirring occasionally. Serve hot.",
-                "rating": 4.6
+                "cookingMethod": "1. Cut beef into thin strips. Heat oil in a large skillet over medium-high heat. Add beef; cook 5 minutes or until browned, stirring occasionally. Remove beef from pan; keep warm. Add onion and mushrooms to pan; cook 4 minutes, stirring occasionally. Add garlic; cook 1 minute. Return beef to pan. Combine sour cream and flour in a small bowl, stirring with a whisk. Add sour cream mixture to pan; bring to a simmer. Cook 2 minutes or until slightly thickened. Serve over cooked egg noodles.",
+                "rating": 4.8
             },
             {
                 "recipeName": "Vegetarian Chili",
@@ -174,11 +168,10 @@
                     "bell peppers",
                     "carrots",
                     "tomatoes",
-                    "kidney beans",
-                    "corn"
+                    "kidney beans"
                 ],
                 "cookingMethod": "1. Heat oil in a large pot over medium-high heat. Add onion, bell peppers, and carrots; cook 5 minutes or until softened, stirring occasionally. Add garlic and cook 1 minute. Add tomatoes, beans, corn, and chili powder; bring to a simmer. Reduce heat and cook 20 minutes, stirring occasionally. Serve hot.",
-                "rating": 4.6
+                "rating": 4.3
             },
             {
                 "recipeName": "Grilled Salmon",
@@ -210,24 +203,23 @@
                     "bell peppers",
                     "carrots",
                     "tomatoes",
-                    "kidney beans",
-                    "corn"
+                    "kidney beans"
+                    
                 ],
                 "cookingMethod": "1. Heat oil in a large pot over medium-high heat. Add onion, bell peppers, and carrots; cook 5 minutes or until softened, stirring occasionally. Add garlic and cook 1 minute. Add tomatoes, beans, corn, and chili powder; bring to a simmer. Reduce heat and cook 20 minutes, stirring occasionally. Serve hot.",
-                "rating": 4.6
+                "rating": 4.3
             },
             {
-                "recipeName": "Vegetarian Chili",
+                "recipeName": "Beef Stroganoff",
                 "ingredients": [
+                    "beef tenderloin",
+                    "mushrooms",
                     "onion",
-                    "bell peppers",
-                    "carrots",
-                    "tomatoes",
-                    "kidney beans",
-                    "corn"
+                    "garlic",
+                    "egg noodles"
                 ],
-                "cookingMethod": "1. Heat oil in a large pot over medium-high heat. Add onion, bell peppers, and carrots; cook 5 minutes or until softened, stirring occasionally. Add garlic and cook 1 minute. Add tomatoes, beans, corn, and chili powder; bring to a simmer. Reduce heat and cook 20 minutes, stirring occasionally. Serve hot.",
-                "rating": 4.6
+                "cookingMethod": "1. Cut beef into thin strips. Heat oil in a large skillet over medium-high heat. Add beef; cook 5 minutes or until browned, stirring occasionally. Remove beef from pan; keep warm. Add onion and mushrooms to pan; cook 4 minutes, stirring occasionally. Add garlic; cook 1 minute. Return beef to pan. Combine sour cream and flour in a small bowl, stirring with a whisk. Add sour cream mixture to pan; bring to a simmer. Cook 2 minutes or until slightly thickened. Serve over cooked egg noodles.",
+                "rating": 4.8
             },
             {
                 "recipeName": "Grilled Salmon",
@@ -269,7 +261,6 @@
                 "ingredients": [
                     "beef tenderloin",
                     "mushrooms",
-                    "sour cream",
                     "onion",
                     "garlic",
                     "egg noodles"
@@ -282,7 +273,6 @@
                 "ingredients": [
                     "chicken thighs",
                     "coconut milk",
-                    "curry powder",
                     "onion",
                     "garlic",
                     "basmati rice"
