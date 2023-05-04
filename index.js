@@ -16,11 +16,10 @@ app.get('/chefrecipe',(req, res) => {
 
 app.get('/chefrecipe/:id', (req, res) => {
     const id = req.params.id;
-    console.log(id);
+    // console.log(id);
     const selectedChef = chefRecipe.find(chef => chef.id==id)
     res.send(selectedChef);
 })
-
 
 
 app.listen(port, () => {
